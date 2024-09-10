@@ -3,6 +3,31 @@ plugins {
     alias(libs.plugins.kotlin.android)
 }
 
+
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'flashbar'
+
+    publishedGroupId = 'com.yasenenko.flashbar'
+    libraryName = 'flashbar'
+    artifact = 'flashbar'
+
+    libraryDescription = 'A highly customizable, powerful and easy-to-use alerting library for Android.'
+
+    siteUrl = 'https://github.com/vyasenenko/flashbar'
+    gitUrl = 'https://github.com/vyasenenko/flashbar.git'
+
+    libraryVersion = '1.0.0'
+
+    developerId = 'aritraroy'
+    developerName = 'Aritra Roy'
+    developerEmail = 'aritra.roy.in@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
 android {
     namespace 'com.yasenenko.flashbar'
     compileSdk 34

@@ -1,5 +1,6 @@
 [versions]
 agp = "8.6.0"
+androidMaven = "2.1"
 kotlin = "1.9.0"
 coreKtx = "1.13.1"
 junit = "4.13.2"
@@ -20,4 +21,5 @@ material = { group = "com.google.android.material", name = "material", version.r
 android-library = { id = "com.android.library", version.ref = "agp" }
 android-application = { id = "com.android.application", version.ref = "agp" }
 kotlin-android = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
+android-maven = { id = "com.github.dcendents.android-maven", version.ref = "androidMaven" }
 

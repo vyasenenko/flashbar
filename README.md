@@ -1,6 +1,10 @@
 
 # Flashbar
-A highly customizable, powerful and easy-to-use alerting library for Android.
+
+A highly customizable, powerful, and easy-to-use alerting library for Android.
+
+This updated version of the Flashbar library, originally sourced from [aritraroy/Flashbar](https://github.com/aritraroy/Flashbar), features a cleaned-up codebase and continues to work as it did before. The primary change is the updated import process. Now, the library is available from the repository [jitpack.io](https://jitpack.io), making integration even more convenient.
+
 
 ### Specs
 [![Download](https://api.bintray.com/packages/aritraroy/maven/flashbar/images/download.svg)](https://bintray.com/aritraroy/maven/flashbar/_latestVersion) [![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=14) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23308-blue.svg)](http://androidweekly.net/issues/issue-308) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Flashbar-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6933)
