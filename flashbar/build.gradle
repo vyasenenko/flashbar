@@ -64,9 +64,6 @@ afterEvaluate {
         publications {
             release(MavenPublication) {
                 from components.release
-                groupId = 'com.github.yasenenko'
-                artifactId = 'flashbar'
-                version = '1.0.0'
             }
         }
     }
