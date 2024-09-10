@@ -7,7 +7,7 @@ This updated version of the Flashbar library, originally sourced from [aritraroy
 
 
 ### Specs
-[![Download](https://api.bintray.com/packages/aritraroy/maven/flashbar/images/download.svg)](https://bintray.com/aritraroy/maven/flashbar/_latestVersion) [![API](https://img.shields.io/badge/API-14%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=14) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23308-blue.svg)](http://androidweekly.net/issues/issue-308) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Flashbar-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6933)
+[![Download](https://jitpack.io/v/vyasenenko/flashbar.svg)](https://jitpack.io/#vyasenenko/flashbar) [![API](https://img.shields.io/badge/API-21%2B-orange.svg?style=flat)](https://android-arsenal.com/api?level=21) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0) [![Android Weekly](https://img.shields.io/badge/Android%20Weekly-%23308-blue.svg)](http://androidweekly.net/issues/issue-308) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-Flashbar-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/6933)
 
 
 This library allows you to show messages or alerts in your app **quickly and easily**. It can be used as an alternative to `Snackbar` or `Toast` and offers a plethora of useful features and customization options for you to play with.
