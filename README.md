@@ -55,7 +55,7 @@ This library is available in **[jitpack.io](https://jitpack.io)** which is the d
 ```groovy
 dependencies {
     // other dependencies here
-    implementation 'com.github.yasenenko:flashbar:{latest_version}'
+    implementation 'com.github.vyasenenko:flashbar:{latest_version}'
 }
 ```
 
